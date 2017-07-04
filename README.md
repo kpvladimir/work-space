@@ -1,5 +1,5 @@
 # work-space
-Work space for web development
+Разработка рабочего места верстальщика.
 
 # Структура проекта
 
